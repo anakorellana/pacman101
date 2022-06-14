@@ -1,7 +1,8 @@
-# pacman101
+# Pacman101
+
 Basic animation using javascript.
 
----
+
 <h2>Description</h2>
 Pacman 101 is an animation which consists of two animations going 
 from left to right initially and then left to right. There are different ways to
@@ -15,7 +16,8 @@ using if statements.
 
 <h2>Installation</h2>
 
-You would only have to download all the images and html file to fire it up on your screen. Once you download them you can open them in your browser 
+You would only have to download all the images and html file to fire it up on your screen.
+Once you download them you can open them in your browser 
 to see yellow packman going to the left and right of your screen. 
 
 <h2>Usage</h2>
@@ -34,7 +36,8 @@ Should you have any questions or concerns email me anakorellana@gmail.com
 
 <h2>RoadMap</h2>
 
-Perhaps, the goal would be to add more pacmans and make it more of laberynth pacman game that eats avocados along the way to make it to the finish line. 
+Perhaps, the goal would be to add more pacmans and make it more of laberynth pacman game that
+eats avocados along the way to make it to the finish line. 
 
 <h2>License</h2>
 

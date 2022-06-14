@@ -1,2 +1,3 @@
 # pacman101
-Animation basic practice using javascript
+Basic animation using javascript
+<h2>Description</h2>
